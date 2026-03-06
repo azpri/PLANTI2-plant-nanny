@@ -59,13 +59,11 @@ The humidifier can be manually turned on or off by the user to increase air humi
 - Silicone tube
 - Crocodile clip wires
 
-# 2026 Improvements (Simulation Version)
+# Added Improvements (Simulation Version)
 
 The original STEM fair project focused mainly on **basic automatic watering**.
 
 When recreating the system in **Tinkercad**, several additional features were implemented to improve the design and make it closer to real smart irrigation systems.
-
-### Added Improvements
 
 - Soil moisture value display on the micro:bit  
 - Pump activation animation on the LED display  
@@ -86,6 +84,30 @@ This simulation models the behavior of the original system and demonstrates the 
 
 Tinkercad link:
 https://www.tinkercad.com/things/7Y3o52LFwUy-planti2-tinkercad-version?sharecode=dlrpBMB_xjvE_FVYdWx__GbfSy_UxVwCkr0eF3obNak
+
+BBC Micro:bit
+
+The Micro:bit serves as the controller of the system. It reads sensor inputs and decides when to activate the pump or other devices. In the original prototype, the Micro:bit was the central controller connected to the moisture sensor, pump driver, and humidifier.
+
+Soil Moisture Sensor (Simulated)
+
+The original project used a soil moisture sensor placed in the plant’s soil. In the Tinkercad simulation, this is represented by a potentiometer, which produces adjustable analog values to simulate different soil moisture levels.
+
+Transistor Motor Driver
+
+A transistor is used as a switch that allows the Micro:bit to control the pump. This mirrors the real prototype, where the transistor allowed the Micro:bit to safely power the pump using an external power source.
+
+Water Pump (Simulated with DC Motor)
+
+The real project used a submersible water pump to move water from a reservoir to the plant through a silicone tube. In the simulation, a DC motor represents the pump's electrical behavior.
+
+LED Indicator
+
+The LED in the simulation acts as a status indicator showing when certain outputs are active. This helps visualize system behavior during testing.
+
+Breadboard and Wiring
+
+The breadboard represents the wiring layout used in the physical prototype, where components were connected using crocodile clips and jumper wires.
 
 # How the System Works
 
