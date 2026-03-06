@@ -8,13 +8,13 @@ Micro:bit-based self-watering plant system with soil moisture sensing, pump cont
 This project was originally developed for a **STEM Fair in 2022** by a group of students.  
 The goal was to design a simple system that could automatically water plants using sensors and a microcontroller.
 
-![Board](images/display-board)
+![Board](images/display-board.jpg)
 
 In 2026, the project was **recreated and expanded in simulation using Tinkercad** in order to document the system and improve its control logic.
 
 # Overview
 
-The Smart Plant Nanny is an **automatic plant watering system** that monitors soil moisture and waters plants when the soil becomes too dry.
+PLANTI2 is an **automatic plant watering system** that monitors soil moisture and waters plants when the soil becomes too dry.
 
 The system uses a **BBC micro:bit microcontroller** to read sensor data and control a small water pump that delivers water to the plant through a tube.
 
@@ -65,12 +65,12 @@ When recreating the system in **Tinkercad**, several additional features were im
 
 ### Added Improvements
 
-• Soil moisture value display on the micro:bit  
-• Pump activation animation on the LED display  
-• Moisture hysteresis to prevent rapid ON/OFF switching  
-• Night mode using the micro:bit light sensor  
-• Water tank level protection logic  
-• Pump delay to reduce unnecessary switching  
+- Soil moisture value display on the micro:bit  
+- Pump activation animation on the LED display  
+- Moisture hysteresis to prevent rapid ON/OFF switching  
+- Night mode using the micro:bit light sensor  
+- Water tank level protection logic  
+- Pump delay to reduce unnecessary switching  
 
 These improvements make the system **more stable, safer, and more realistic for real-world applications**.
 
