@@ -8,7 +8,7 @@ Micro:bit-based self-watering plant system with soil moisture sensing, pump cont
 This project was originally developed for a **STEM Fair in 2022** by a group of students.  
 The goal was to design a simple system that could automatically water plants using sensors and a microcontroller.
 
-![Board](dispay-board)
+![Board](images/display-board)
 
 In 2026, the project was **recreated and expanded in simulation using Tinkercad** in order to document the system and improve its control logic.
 
