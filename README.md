@@ -1,5 +1,6 @@
 # PLANTI2-plant-nanny
 Micro:bit-based self-watering plant system with soil moisture sensing, pump control, and optional air humidifier. Recreated in Tinkercad from a 2022 STEM Fair project.
+
 Tinkercad link: https://www.tinkercad.com/things/7Y3o52LFwUy-planti2-tinkercad-version?sharecode=dlrpBMB_xjvE_FVYdWx__GbfSy_UxVwCkr0eF3obNak
 
 ![Logo](images/planti2-logo.png)
