@@ -102,7 +102,6 @@ Additional safety logic prevents the pump from running when:
 
 The control logic was implemented using **MicroPython for the BBC micro:bit**.
 
-See:
 `microbit_code.py`
 
 # Applications
@@ -114,7 +113,7 @@ Systems like this are used in:
 - Greenhouse irrigation systems
 - Agricultural water management
 
-## Engineering Concepts Demonstrated
+## Concepts Demonstrated
 
 - **Embedded Systems Programming**  
   Programming a BBC Micro:bit microcontroller using MicroPython.
