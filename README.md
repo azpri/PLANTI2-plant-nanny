@@ -83,7 +83,7 @@ Tinkercad Circuits
 This simulation models the behavior of the original system and demonstrates the control logic used for automatic watering.
 
 Simulation link:
-https://www.tinkercad.com/things/7Y3o52LFwUy-planti2-tinkercad-version
+https://www.tinkercad.com/things/7Y3o52LFwUy-planti2-tinkercad-version?sharecode=dlrpBMB_xjvE_FVYdWx__GbfSy_UxVwCkr0eF3obNak
 
 # How the System Works
 
